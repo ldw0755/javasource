@@ -3,7 +3,7 @@ package shopping;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import com.sun.java.util.jar.pack.Instruction.Switch;
+//import com.sun.java.util.jar.pack.Instruction.Switch;
 
 public class MyShop implements IShop {
 	
